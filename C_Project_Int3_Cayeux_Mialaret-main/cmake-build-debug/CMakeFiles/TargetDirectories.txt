@@ -1,3 +1,0 @@
-C:/Users/Mousti/Desktop/C_Project_Int3_Cayeux_Mialaret-main/cmake-build-debug/CMakeFiles/C_Project_Int3_Cayeux_Mialaret_main.dir
-C:/Users/Mousti/Desktop/C_Project_Int3_Cayeux_Mialaret-main/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Mousti/Desktop/C_Project_Int3_Cayeux_Mialaret-main/cmake-build-debug/CMakeFiles/rebuild_cache.dir
